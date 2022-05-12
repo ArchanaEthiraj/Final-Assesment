@@ -1,0 +1,28 @@
+.dollar{
+    color:#979797;
+}
+.vector{
+    margin-left: -27px;
+    margin-top: -5px;
+}
+.ecomm{
+    margin-left: 15px;
+    font-weight: bold;
+}
+.home{
+    margin-left: 270px;
+    font-size: 20px;
+    color: #40bfff;
+    font-weight: 500;
+}
+.bag, .sneakers, .contact, .belt{
+    font-size: 20px;
+    font-weight: 500;
+}
+.sneakers, .bag, .belt, .contact{
+    margin-left: 80px;
+}
+.all{
+    font-size: 15px;
+    font-weight: 600;
+}

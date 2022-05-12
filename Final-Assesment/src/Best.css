@@ -1,0 +1,22 @@
+.discount{
+    color:#40BFFF;
+}
+.price{
+    color: #9098B1;
+    text-decoration: line-through;
+}
+.offer{
+    color: #FB7181;
+}
+.menu{
+    cursor: pointer;
+    font-size: 20px;
+}
+.load{
+    color: #40bfff;
+}
+.loads{
+    border-bottom: solid 2px #42c0ff;
+    width: 90px;
+    margin-left: 563px;
+}
